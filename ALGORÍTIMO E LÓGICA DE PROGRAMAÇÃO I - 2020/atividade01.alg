@@ -1,6 +1,6 @@
 algoritmo "SomaEnquanto"
 // Nome: Andrey Querino
-// FunÁ„o: Soma de 5 valores com a interaÁ„o do usu·rio com a m·quina
+// Fun√ß√£o: Soma de 5 valores com a intera√ß√£o do usu√°rio com a m√°quina
 // Comando "Enquanto"
 var
      contador, valor, soma : Inteiro
@@ -8,28 +8,10 @@ inicio
      contador <- 1
      soma <- 0
      Enquanto (contador <= 5) faca
-       Escreva("Insira o",contador,"∫ valor: ")
+       Escreva("Insira o",contador,"¬∫ valor: ")
        Leia(valor)
        contador <- contador + 1
        soma <- soma + valor
      FimEnquanto
-       Escreval("A soma dos valores selecionados È:",soma)
-fimalgoritmo
-
------------------------------------------------------
-
-algoritmo "SomaPara"
-// Nome: Andrey Querino
-// FunÁ„o: Soma de 5 valores com a interaÁ„o do usu·rio com a m·quina
-// Comando "Para"
-var
-     contador, valor, soma : Inteiro
-inicio
-     soma <- 0
-     Para contador <- 1 ate 5 faca
-       Escreva("Insira o",contador,"∫ valor: ")
-       Leia(valor)
-       soma <- soma + valor
-     FimPara
-       Escreval("A soma dos valores foi:",soma)
+       Escreval("A soma dos valores selecionados √©:",soma)
 fimalgoritmo
