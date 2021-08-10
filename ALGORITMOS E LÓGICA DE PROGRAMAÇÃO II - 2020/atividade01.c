@@ -15,4 +15,5 @@ int main(void){
 	} else {
 		printf("A = B\n");
 	}
+	system("pause");
 }
