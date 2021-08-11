@@ -2,7 +2,7 @@
 
 Crie um controle de Bancário para gerenciar uma conta corrente e conta poupança. Onde deverá ter as seguintes classes:
 
-#Conta
+# Conta
 
     que deverá ser abstrata e toda a conta possui número, agência, cliente e saldo;
     Número da conta e agência deverá ser maior que 0;
@@ -12,19 +12,19 @@ Crie um controle de Bancário para gerenciar uma conta corrente e conta poupanç
     O atributo saldo deverá ter apenas método get;
     O método sacar deverá ser abstrato;
 
-#Cliente:
+# Cliente:
 
     Deverá ter um nome e cpf, ambos String;
     Deverá ter um construtor com todos os atributos;
     Deverá ter apenas métodos gets;
 
-#Conta Corrente:
+# Conta Corrente:
 
     deverá herdar de conta;
     Deverá retirar do saldo 0,10 a cada saque;
     Não deverá permitir sacar um valor superior ao saldo;
 
-#Conta poupança:
+# Conta poupança:
 
     deverá herdar de conta;
     Não deverá permitir sacar um valor superior ao saldo;
