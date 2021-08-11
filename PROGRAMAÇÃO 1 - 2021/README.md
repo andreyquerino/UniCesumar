@@ -2,7 +2,7 @@
 
 Crie um controle de Bancário para gerenciar uma conta corrente e conta poupança. Onde deverá ter as seguintes classes:
 
-~ Conta
+<h2> Conta </h2>
 
 Que deverá ser abstrata e toda a conta possui número, agência, cliente e saldo;
 Número da conta e agência deverá ser maior que 0;
