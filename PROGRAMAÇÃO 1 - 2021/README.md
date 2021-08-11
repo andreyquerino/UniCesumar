@@ -1,4 +1,4 @@
-# ATIVIDADE 1 - PROGRAMAÇÃO I - UniCesumar
+# ATIVIDADE 1 - PROGRAMAÇÃO I
 
 Crie um controle de Bancário para gerenciar uma conta corrente e conta poupança. Onde deverá ter as seguintes classes:
 
@@ -12,19 +12,19 @@ Deverá ter um método de sacar e depositar;
 O atributo saldo deverá ter apenas método get;
 O método sacar deverá ser abstrato;
 
-~ Cliente:
+<h2> Cliente </h2>
 
 Deverá ter um nome e cpf, ambos String;
 Deverá ter um construtor com todos os atributos;
 Deverá ter apenas métodos gets;
 
-~ Conta Corrente:
+<h2>Conta Corrente</h2>
 
 Deverá herdar de conta;
 Deverá retirar do saldo 0,10 a cada saque;
 Não deverá permitir sacar um valor superior ao saldo;
 
-~ Conta poupança:
+<h2>Conta poupança</h2>
 
 Deverá herdar de conta;
 Não deverá permitir sacar um valor superior ao saldo;
