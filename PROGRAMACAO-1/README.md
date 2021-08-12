@@ -1,3 +1,3 @@
 # Atividades Programação 1 - UNICESUMAR
 
-Atividades que lida com a da linguagem java ☕
+Atividades que lida com a linguagem java ☕
