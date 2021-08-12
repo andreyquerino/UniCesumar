@@ -1,11 +1,10 @@
-// UNICESUMAR - FOZ DO IGUAÃ‡U - PR
-// MAPA - ADS/SI - ALGORITMOS E LÃ“GICA DE PROGRAMAÃ‡ÃƒO II - 2020
+// UNICESUMAR - FOZ DO IGUAÇU - PR
+// MAPA - ADS/SI - ALGORITMOS E LÓGICA DE PROGRAMAÇÃO II - 2020
 // Autor : Andrey Querino
-// R.A : 1971669-5
 //
-//        .:: QUERINO REGISTER VERSÃƒO BETA ::.
+//        .:: QUERINO REGISTER VERSÃO BETA ::.
 // Sistema de agenda que permite armazenar o cadastro de,
-// no mÃ¡ximo, 5 (cinco) clientes por vez.
+// no máximo, 5 (cinco) clientes por vez.
 
 
 #include <stdio.h>
@@ -33,16 +32,16 @@ int main()
     while (opcoes != 0)
     {
         system("cls");
-        printf(".:: QUERINO REGISTER VERSÃƒO BETA ::.\n");
+        printf(".:: QUERINO REGISTER VERSÃO BETA ::.\n");
         printf("[1] Inserir Cadastro\n");
         printf("[2] Mostrar todos os cadastros\n");
         printf("[0] Encerrar\n");
-        printf("Escolha uma opÃ§Ã£o: ");
+        printf("Escolha uma opção: ");
         scanf("%d",&opcoes);
         fflush(stdin);
         if (opcoes > 2)
         {
-            printf("\nErro: opÃ§Ã£o invÃ¡lida!\n");
+            printf("\nErro: opção inválida!\n");
             system("pause");
         }
         if (opcoes == 1)
@@ -53,7 +52,7 @@ int main()
                 {
                     system("cls");
                     printf(".:: NOVO CADASTRO ::.\n\n");
-                    printf("CÃ³digo de registro 00%d\n",Agenda[i].codigo = i);
+                    printf("Código de registro 00%d\n",Agenda[i].codigo = i);
                     printf("Nome: ");
                     scanf("%30[^\n]s",&Agenda[i].nome);
                     fflush(stdin);
@@ -80,7 +79,7 @@ int main()
                 printf(".:: CADASTROS REGISTRADOS ::.\n\n");
                 for ( i = 1; i <= QUANTIDADE; i++)
                 {
-                    printf("CÃ³digo 00%d\n",Agenda[i].codigo);
+                    printf("Código 00%d\n",Agenda[i].codigo);
                     printf("Nome: %s\n",Agenda[i].nome);
                     printf("Telefone: %s\n",Agenda[i].telefone);
                     printf("Email: %s\n\n",Agenda[i].email);
