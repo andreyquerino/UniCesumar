@@ -31,5 +31,4 @@ Programe um controle de Bancário para gerenciar uma **_conta corrente_** e **_c
 > Deverá instanciar um objeto conta poupança;<br />
 > Deverá exibir todas as informações de todos os atributos de conta corrente e poupança;<br />
 
-
-![](https://github.com/andreyquerino/UniCesumar/blob/main/PROGRAMACAO-1/ATIVIDADE-1/img/Atividade01.png)
+![Atividade01](https://user-images.githubusercontent.com/88719652/129478318-68d49b1a-24da-4a6a-98c3-d142a7d8d11d.png)
