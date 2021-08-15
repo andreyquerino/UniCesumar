@@ -3,7 +3,7 @@
 ## Atividade 1
 Correção do programa que identifica qual o variável possui o número maior.<br />
 
-![](https://github.com/andreyquerino/UniCesumar/blob/main/ALGORITMO-E-LOGICA-DE-PROGRAMACAO-2/img/atividade01.png)
+![atividade01](https://user-images.githubusercontent.com/88719652/129478221-b0c18aa7-e955-448d-86bc-c9f541740172.png)
 
 ## Atividade Mapa
 Você deverá programar uma agenda em versão beta (**_versão de teste_**), que permite armazenar o cadastro de, no máximo, 5 (cinco) clientes por vez. 
@@ -26,4 +26,4 @@ O programa deverá apresentar um menu de opções ao usuário:
 
 Caso o usuário escolha uma opção que não conste no menu, o programa deverá exibir uma mensagem de erro como, por exemplo: “**_Erro: opção inválida!_**”. Caso contrário, o programa não deverá imprimir essa mensagem de erro.
 
-![](https://github.com/andreyquerino/UniCesumar/blob/main/ALGORITMO-E-LOGICA-DE-PROGRAMACAO-2/img/mapa.png)
+![mapa](https://user-images.githubusercontent.com/88719652/129478228-37108448-611f-4216-a120-b2dbbb1e2d22.png)
