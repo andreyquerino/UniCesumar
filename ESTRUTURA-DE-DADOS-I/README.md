@@ -32,4 +32,4 @@ O programa deve ter um menu principal em forma de laço de repetição que atend
 **Encerrar programa** 
 >deve finalizar o processo.<br />
 
-![](https://github.com/andreyquerino/UniCesumar/blob/main/ESTRUTURA-DE-DADOS-I/img/mapa.png)
+![mapa](https://user-images.githubusercontent.com/88719652/129478274-384186f2-cbb3-41e1-b978-c5c53e5bb32a.png)
