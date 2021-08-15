@@ -14,7 +14,7 @@ procedimento VerificaNumero(var Y : inteiro)
 inicio
       leia(Y)
       enquanto (Y <> 1) e (Y <> 2) faca
-               escreva("ERRO! Apenas o n� 2 ou n� 1: ")
+               escreva("ERRO! Apenas o numero 2 ou numero 1: ")
                leia(Y)
       fimenquanto
       limpatela
