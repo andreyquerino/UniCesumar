@@ -105,7 +105,7 @@ public class ControleDeEstoque {
         } while (opcao != 0);
     }
     
-    // ..:: PRINCIPAIS FUNÇÃOES ::..
+    // ..:: PRINCIPAIS FUNÇÕES ::..
     //
     // Menu Principal
     private int omenuPrincipal() {
