@@ -10,62 +10,62 @@
 .:: EMPRESA DE IMPORTAÇÃO DE PRODUTOS LTDA ::. <br />
     .:: SISTEMA DE CONTROLE DE ESTOQUE ::.
 ## MENU PRINCIPAL
-> [1] CADASTRO DE PRODUTOS
-> [2] MOVIMENTAÇÃO
-> [3] REAJUSTE DE PREÇOS
-> [4] RELATÓRIOS
-> [0] FINALIZAR
+> [1] CADASTRO DE PRODUTOS<br />
+> [2] MOVIMENTAÇÃO<br />
+> [3] REAJUSTE DE PREÇOS<br />
+> [4] RELATÓRIOS<br />
+> [0] FINALIZAR<br />
 > OPÇÃO: 
 
 ## CADASTRO DE PRODUTOS
-> [1] INCLUSÃO
-> [2] ALTERAÇÃO
-> [3] CONSULTA
-> [4] EXCLUSÃO
-> [0] RETORNAR
-> OPÇÃO:
+> [1] INCLUSÃO<br />
+> [2] ALTERAÇÃO<br />
+> [3] CONSULTA<br />
+> [4] EXCLUSÃO<br />
+> [0] RETORNAR<br />
+> OPÇÃO:<br />
 
 ## INCLUSÃO DE PRODUTO
-> NOME:
-> PREÇO:
-> UNIDADE:
-> QUANTIDADE:
-> CONFIRMA INCLUSÃO (S/N)?
-> REPETIR OPERAÇÃO (S/N)?
+> NOME:<br />
+> PREÇO:<br />
+> UNIDADE:<br />
+> QUANTIDADE:<br />
+> CONFIRMA INCLUSÃO (S/N)?<br />
+> REPETIR OPERAÇÃO (S/N)?<br />
 
 ## ALTERAÇÃO DE PRODUTO
-> NOME:
-> PREÇO:
-> UNIDADE:
-> QUANTIDADE:
-> CONFIRMA ALTERAÇÃO (S/N)?
-> REPETIR OPERAÇÃO (S/N)?
+> NOME:<br />
+> PREÇO:<br />
+> UNIDADE:<br />
+> QUANTIDADE:<br />
+> CONFIRMA ALTERAÇÃO (S/N)?<br />
+> REPETIR OPERAÇÃO (S/N)?<br />
 
 ## CONSULTA DE PRODUTO
-> NOME:
-> PREÇO:
-> UNIDADE:
-> QUANTIDADE:
-> REPETIR OPERAÇÃO (S/N)?
+> NOME:<br />
+> PREÇO:<br />
+> UNIDADE:<br />
+> QUANTIDADE:<br />
+> REPETIR OPERAÇÃO (S/N)?<br />
 
 ## EXCLUSÃO DE PRODUTO
-> NOME:
-> PREÇO:
-> UNIDADE:
-> QUANTIDADE:
-> CONFIRMA EXCLUSÃO (S/N)?
-> REPETIR OPERAÇÃO (S/N)?
+> NOME:<br />
+> PREÇO:<br />
+> UNIDADE:<br />
+> QUANTIDADE:<br />
+> CONFIRMA EXCLUSÃO (S/N)?<br />
+> REPETIR OPERAÇÃO (S/N)?<br />
 
 ## MOVIMENTAÇÃO
-> [1] ENTRADA
-> [2] SAÍDA
-> [0] RETORNAR
-> OPÇÃO:
+> [1] ENTRADA<br />
+> [2] SAÍDA<br />
+> [0] RETORNAR<br />
+> OPÇÃO:<br />
 
 ## MOVIMENTAÇÃO > ENTRADA DE PRODUTO
-> PRODUTO:
-> QTDE ATUAL:
-> QTDE ENTRADA:
-> QTDE FINAL:
-> CONFIRMA ENTRADA (S/N)?
-> REPETIR OPERAÇÃO (S/N)?
+> PRODUTO:<br />
+> QTDE ATUAL:<br />
+> QTDE ENTRADA:<br />
+> QTDE FINAL:<br />
+> CONFIRMA ENTRADA (S/N)?<br />
+> REPETIR OPERAÇÃO (S/N)?<br />
