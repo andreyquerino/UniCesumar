@@ -17,10 +17,9 @@ public class ControleDeEstoque {
     private int posicao = 0;
     
     private void menuInformacaoEmpresa() {
-        System.out.println("\n╔═══════════════════════╗");
-        System.out.println("  EMPRESA DE IMPORTAÇÃO DE PRODUTOS LTDA ");
-        System.out.println("      SISTEMA DE CONTROLE DE ESTOQUE     ");
-        System.out.println("╚═══════════════════════╝");
+        System.out.println("\n");
+        System.out.println(">> EMPRESA DE IMPORTAÇÃO DE PRODUTOS LTDA <<");
+        System.out.println("    >> SISTEMA DE CONTROLE DE ESTOQUE <<    ");
     }
     
     private Produtos setInformacaoDosProdutos() {
