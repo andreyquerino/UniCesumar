@@ -62,10 +62,12 @@
 > [0] RETORNAR<br />
 > OPÇÃO:<br />
 
-## MOVIMENTAÇÃO > ENTRADA DE PRODUTO
+## MOVIMENTAÇÃO - ENTRADA DE PRODUTO
 > PRODUTO:<br />
-> QTDE ATUAL:<br />
-> QTDE ENTRADA:<br />
-> QTDE FINAL:<br />
+> QUANTIDADE ATUAL:<br />
+> QUANTIDADE ENTRADA:<br />
+> QUANTIDADE FINAL:<br />
 > CONFIRMA ENTRADA (S/N)?<br />
 > REPETIR OPERAÇÃO (S/N)?<br />
+
+![mapa](https://user-images.githubusercontent.com/88719652/130635220-7c0de065-5266-4beb-b4ba-7a3d5570b461.png)
