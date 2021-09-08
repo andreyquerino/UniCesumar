@@ -9,17 +9,10 @@ import java.util.Scanner;
 
 public class EquacaoSegundoGrau {
     
-     public static double resultado(double delta, double x1, double x2){
-            System.out.printf("Valor de Δ: %.0f", delta);
-            System.out.printf("\nValor de x¹: %.2f", x1);
-            System.out.printf("\nValor de x²: %.2f", x2);
-            return 0;
-    }
-    
     public static void main(String[] args) {
         
         String opcao;
-        double a, b, c, x1, x2, delta;
+        double a, b, c;
         do {
             Scanner valores = new Scanner(System.in);
             Scanner scanner = new Scanner(System.in);
@@ -34,33 +27,19 @@ public class EquacaoSegundoGrau {
             c = valores.nextDouble();
             System.out.printf("((%.0fx²) + (%.0fx) + (%.0f))\n", a, b, c);
             
-            delta = Math.pow(b, 2) -4 * a * c;
-            x1 = ((-b + Math.sqrt(delta)) / (2 * a));
-            x2 = ((-b - Math.sqrt(delta)) / (2 * a));
-            
-            if (delta < 0){
-                System.out.println("\n→ A EQUAÇÃO NÃO POSSUI VALORES REAIS! ←");
-
-            } else if(x1 == x2){
-                
-                System.out.println("\n→ EQUAÇÃO COM RAÍZES IGUAIS! ←");
-                resultado(delta, x1, x2); 
-                
-            } else {
-                
-                System.out.println("\n→ EQUAÇÃO COM RAÍZES DIFERENTES! ←");
-                resultado(delta, x1, x2);
-                
+            try {
+                Calculo y = new Calculo(a, b, c);
             }
-  
-            System.out.print("\n\nDeseja Calcular outra Equação? ( S/N )? ");
+            catch (RuntimeException e){
+                System.out.println(e.getMessage());
+            } 
+            
+            System.out.print("\nDeseja Calcular outra Equação? ( S/N )? ");
             opcao = scanner.next();
             System.out.println("");
             
         } while(opcao.equalsIgnoreCase("S"));
         
-        System.exit(0);
-        
+        System.exit(0);   
     }
-    
 }
