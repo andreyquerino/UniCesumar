@@ -23,10 +23,12 @@ Vejamos a seguir algumas informações da empresa:<br />
 
 ## Configuração do Servidor de DNS (INTRANET 1, INTRANET 2)
 O principal objetivo de um servidor de DNS é trabalhar com nomes em vez dos IPs para acessar endereço.<br />
+
 ![DHCP](https://user-images.githubusercontent.com/88719652/146618579-5b4508ac-9da8-4fda-9241-d7e966ca6f3b.png)
 
 ## Configurar arquivos no Servidor WEB 
 Nos servidores de intranet podemos ter diversos serviços disponíveis, como por exemplo, um servidor Web que é um dos principais componentes para aplicações WEB <br />
+
 ![DNS](https://user-images.githubusercontent.com/88719652/146618583-8e2fbb3f-7762-49f4-99ea-9b57558377f5.png)
 
 
