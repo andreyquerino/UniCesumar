@@ -7,10 +7,10 @@ De acordo com as informações, vou reconstruir a rede isolando os setores da em
 Vejamos a seguir algumas informações da empresa:<br />
 
 ## Administrativo, Comercial,  Financeiro e Atendimento
-> Administrativo: Servidor de ERP1, Servidor de E-mail1 
-> Comercial: Servidor de DHCP para o comercial, Servidor de Intranet 1<br />
-> Financeiro: Servidor de Intranet 2<br />
-> Atendimento: Servidor de DHCP para o atendimento<br />
+> **Administrativo:** Servidor de ERP1, Servidor de E-mail1<br />
+> **Comercial:** Servidor de DHCP para o comercial, Servidor de Intranet 1<br />
+> **Financeiro:** Servidor de Intranet 2<br />
+> **Atendimento:** Servidor de DHCP para o atendimento<br />
 
 
 ## Configuração da rede 
