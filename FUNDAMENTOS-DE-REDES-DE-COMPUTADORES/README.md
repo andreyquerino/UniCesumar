@@ -18,7 +18,7 @@ Vejamos a seguir algumas informações da empresa:<br />
 - Criar 4 VLans em todos os Switchs
 - Configurar todos os computadores e servidores.
 
-> ![Estrutura](https://user-images.githubusercontent.com/88719652/146618532-eabccd9c-14c3-4bf3-a61f-5852ecbc0768.png)
+![estrutura](https://user-images.githubusercontent.com/88719652/146685342-e6db8643-4a8f-45b4-802e-148df204a5bf.png)
 ![ping](https://user-images.githubusercontent.com/88719652/146618568-5b95d601-f4a0-4c1a-8867-e0e1e6483da6.png)
 
 ## Configuração do Servidor de DNS (INTRANET 1, INTRANET 2)
