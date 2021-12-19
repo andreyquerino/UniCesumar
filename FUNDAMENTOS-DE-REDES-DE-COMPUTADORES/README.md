@@ -32,7 +32,9 @@ Nos servidores de intranet podemos ter diversos serviços disponíveis, como por
 ![DNS](https://user-images.githubusercontent.com/88719652/146618583-8e2fbb3f-7762-49f4-99ea-9b57558377f5.png)
 
 
-https://user-images.githubusercontent.com/88719652/146619279-3a05a3e0-483a-4afd-944c-dfb62ee3a061.mp4
+https://user-images.githubusercontent.com/88719652/146688887-ec502d77-c3a7-4e63-9e1a-b7979c533395.mp4
+
+
 
 
 
