@@ -2,7 +2,7 @@
 
 Após uma empresa que atua no ramo de planos de saúde sofrer um ataque gravíssimo de ransomware, fui convocado para reconstruir a rede interna da empresa, de acordo com análise, foi identificado que o ataque se originou de um acesso vindo do setor comercial.<br />
 
-De acordo com as informações, vou reconstruir a rede isolando os setores da empresa em VLANs, aplicando as devidas separações de estações, como também propor novas medidas de segurança. <br />
+Ciente dessas informações, vou reconstruir a rede isolando os setores da empresa em VLANs, aplicando as devidas separações de estações, como também propor novas medidas de segurança. <br />
 
 Vejamos a seguir algumas informações da empresa:<br />
 
