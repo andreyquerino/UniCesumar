@@ -53,20 +53,17 @@ void inserirAtividade(){
     }while (continuar == 1);
 }
 
-// Remove um elemento da fila
+// Remove o último elemento da fila
 void RemoverUmaAtividade(){
-    int i;
     if (tamanho != 0){
-        ListarAtividades();
-           fila[i] = fila[i + 1];
-            tamanho--;
+        fila[tamanho--];
         printf("\n\nRemovido uma das atividade com sucesso!\n\n");
         system("pause");
     }
     else {
-            system("cls");       
-            printf("\n\nFila Vazia!\n");
-            system("pause");
+        system("cls");       
+        printf("\n\nFila Vazia!\n");
+        system("pause");
     }
 }
 
@@ -80,7 +77,7 @@ void EsvaziarFila(){
     }
     else {
         for (i = 0; i <= QUANTIDADE; i++){
-            tamanho--;
+            fila[tamanho--];
         }
     }
 }
